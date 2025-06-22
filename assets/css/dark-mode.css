@@ -1,0 +1,68 @@
+/* Dark Mode Overrides */
+.dark-mode {
+    background-color: #0f172a;
+    color: #e2e8f0;
+}
+
+.dark-mode .section-title,
+.dark-mode .section-subtitle,
+.dark-mode .feature-title,
+.dark-mode .service-title,
+.dark-mode .pricing-title,
+.dark-mode .post-title,
+.dark-mode .author-info h4,
+.dark-mode .details-label,
+.dark-mode .contact-text h3,
+.dark-mode .contact-social h3,
+.dark-mode .form-group label {
+    color: #f8fafc;
+}
+
+.dark-mode .feature-description,
+.dark-mode .service-description,
+.dark-mode .pricing-features li,
+.dark-mode .timeline-description,
+.dark-mode .skill-item,
+.dark-mode .testimonial-content,
+.dark-mode .about-description,
+.dark-mode .details-value,
+.dark-mode .contact-text a,
+.dark-mode .contact-text span,
+.dark-mode .post-excerpt,
+.dark-mode .post-meta {
+    color: #94a3b8;
+}
+
+.dark-mode .filter-btn {
+    border-color: #334155;
+    color: #94a3b8;
+}
+
+.dark-mode .filter-btn:hover,
+.dark-mode .filter-btn.active {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.dark-mode .portfolio-overlay {
+    background-color: rgba(15, 23, 42, 0.9);
+}
+
+.dark-mode .modal-content {
+    background-color: #1e293b;
+    color: #e2e8f0;
+}
+
+.dark-mode .modal-close {
+    color: #e2e8f0;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.dark-mode .modal-close:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.dark-mode .nav-link {
+    color: #fff !important;
+}
