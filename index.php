@@ -113,3 +113,5 @@ include 'includes/header.php';
 </section>
 
 <?php include 'includes/footer.php'; ?>
+
+<!-- JavaScript for scroll indicator -->
